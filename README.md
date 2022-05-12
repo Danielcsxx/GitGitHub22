@@ -52,7 +52,7 @@ Apenas para eventos futuros.
 
 **_Utilizando blackquote para destacar detalhes:_**
 
-**Tamplete strings para rodar o projeto**
+### Tamplete strings para rodar o projeto
 
 ```
 npm start
