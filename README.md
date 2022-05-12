@@ -36,8 +36,39 @@ Apenas para eventos futuros.
 
 [Youtube]()
 
->Usando blackquote para destacar algo.
+> Usando blackquote para destacar algo.
 >
->Olá.
+> Olá.
 >
->Segunda area em destaque.
+> Segunda area em destaque.
+
+**_Utilizando blackquote para destacar detalhes:_**
+
+**Tamplete strings para rodar o projeto**
+
+```
+npm start
+```
+
+**Exemplo no uso do script:**
+
+```js
+function showname(name) {
+  return "Bem vindo";
+}
+```
+
+**Uso no HTML:**
+
+```html
+<h1>Titulo do projeto</h1>
+```
+
+**Uso no CSS:**
+
+```css
+.titulo {
+  background-color: #fff;
+  color: #ff0000;
+}
+```
