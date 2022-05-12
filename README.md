@@ -80,3 +80,9 @@ function showname(name) {
   color: #ff0000;
 }
 ```
+### **Utilizando tabelas**
+Propriedades   |   Descrição  
+--------------    |   -----------
+Name   |   Para informar o nome do usuario
+E-mail   |   E-mail do usuario.
+Senha   |   Senha do usuario. 
