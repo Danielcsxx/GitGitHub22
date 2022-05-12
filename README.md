@@ -10,8 +10,8 @@ _Esse é um projeto criado com o intuito de colocar na prática as minhas novas 
 **_Novas Skills Adquiridas_**
 
 
-# Git
-
+# Git  <img align="center" height="70" width="100"  alt="Git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+          
 - Entendendo o que é o **Git**,
 - Aprendendo sobre repositórios,
 - Trabalhando com branches,
@@ -19,7 +19,8 @@ _Esse é um projeto criado com o intuito de colocar na prática as minhas novas 
 - Enviando arquivos para o repositório,
 - Pegando arquivos mais atuais do repositório e muito mais.
 
-# GitHub
+# GitHub <img align="center" height="70" width="100" alt="GitHub-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+          
 
 - Dominando por completo todas as funcionalidades do GitHub,
 - Code,
