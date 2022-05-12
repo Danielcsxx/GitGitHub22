@@ -36,6 +36,14 @@ Apenas para eventos futuros.
 
 [Youtube]()
 
+**Utilizando Tasklist**
+- [x] Site responsivo.
+- [ ] App responsivo.
+- [x] Novas Skills.
+- [ ] Login com facebook.
+- [ ] Pagina Tesla.
+
+
 > Usando blackquote para destacar algo.
 >
 > Olá.
