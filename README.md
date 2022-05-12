@@ -1,5 +1,5 @@
 # Olá, Seja bem vindo. 
-Esse é um projeto criado com o intuito de colocar na prática as minhas novas Skills com **GIT+GITHUB** adquiridas recentemente. Abaixo segue algun detalhes.
+_Esse é um projeto criado com o intuito de colocar na prática as minhas novas Skills com **GIT+GITHUB** adquiridas recentemente. Abaixo segue algun detalhes._
 
 ## **_Curso_**
 - Do **Zero** ao **Profissional** 2022.
